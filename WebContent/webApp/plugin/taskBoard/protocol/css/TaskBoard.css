@@ -1,0 +1,116 @@
+.button_align_right {
+	float: middle;
+}
+
+.TASKBOARD_CARD_MOVEON_ICON {
+	cursor:move;
+}
+
+.TASKBOARD_CARD_MOVEON_ICON2 {
+	cursor:wait;
+}
+
+.TASKBOARD_NOT_CHECKOUT_HEADER {
+	BORDER: 1px solid #222222;
+	font-weight: bolder;
+	background-color: #FF6347;
+	text-align: center;
+	width: 100%;
+}
+
+.TASKBOARD_CHECKOUT_HEADER {	
+	BORDER: 1px solid #222222;
+	font-weight: bolder;
+	background-color: #B1FF3E;
+	text-align: center;
+	width: 100%;
+}
+
+.TASKBOARD_DONE_HEADER {
+	BORDER: 1px solid #222222;
+	font-weight: bolder;
+	background-color: #FDFF55;
+	text-align: center;
+	width: 100%;
+}
+
+.TASKBOARD_STORY_CARD_HEADER {
+	background-color: #EFA2A1;
+	border: solid 1px black;
+	padding: 5px;
+	height: 10px;
+	width: 100%;
+}
+
+.TASKBOARD_STORY_CARD_DESCRIPTION {
+	valign: top;
+	padding: 10px;
+}
+
+.TASKBOARD_STORY_CARD_NOTES {
+	valign: top;
+	padding: 10px;
+	border: solid 1px black;
+	cellspacing: 1px;
+}
+.TASKBOARD_STORY_CARD_VALUE {
+	valign: top;
+	padding: 10px;
+	font-family: impact;
+	width:25%;
+	align:right;
+}
+
+.TASKBOARD_STORY_CARD_TABLE {
+	margin-top: 5px;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 5px;
+	border: solid 3px #191919;
+	width: 90%;
+	cellpadding: 10px;
+	cellspacing: 1px;
+	border-collpase: collpase;
+	word-break : break-all;
+}
+
+.TASKBOARD_TASK_CARD_TABLE {
+	margin-top: 5px;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 5px;
+	border: solid 3px #191919;
+	width: 90%;
+	cellpadding: 10px;
+	cellspacing: 1px;
+	border-collpase: collpase;
+	word-break : break-all;
+}
+
+.TASKBOARD_TASK_CARD_DESCRIPTION {	
+	valign: top;
+	padding: 10px;
+}
+
+.TASKBOARD_TASK_CARD_VALUE{	
+	valign: top;
+	padding: 10px;
+	font-size:120%;
+	font-family: impact;
+	width:50px;
+	align:right;
+	
+}
+
+.TASKBOARD_TASK_CARD_HANDLER{
+	font-family: impact;
+	font-size:120%;
+}
+
+.TASKBOARD_TASK_CARD_HEADER {
+	background-color: #BFBFFF;
+	border: solid 1px black;
+	padding: 5px;
+	height: 10px;
+	width: 100%;
+}

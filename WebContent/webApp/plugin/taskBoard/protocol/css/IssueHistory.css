@@ -1,0 +1,35 @@
+.TASKBOARD_ISSUE_IMPORTANCE {  
+	background-color: #A1EEEF;
+}
+
+.TASKBOARD_ISSUE_ESTIMATION {
+	background-color: #EFC9A1;
+}
+
+.TASKBOARD_ISSUE_SPRINT {
+	background-color: #FFFF66;
+}
+
+.TASKBOARD_ISSUE_STATUS {
+	background-color: #A1EFA2;
+}
+
+.TASKBOARD_ISSUE_ADD {
+	background-color: #A2A1EF;
+}
+
+.TASKBOARD_ISSUE_DROP {
+	background-color: #EFA2A1;
+}
+
+.TASKBOARD_ISSUE_APPEND {
+	background-color: #A2A1EF;
+}
+
+.TASKBOARD_ISSUE_REMOVE {
+	background-color: #EFA2A1;
+}
+
+.TASKBOARD_ISSUE_ACTUALHOUR {
+	background-color: #CCFFFF;
+}
