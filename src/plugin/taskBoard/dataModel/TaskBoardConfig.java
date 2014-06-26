@@ -8,9 +8,9 @@ public class TaskBoardConfig {
 	public TaskBoardConfig( String projectID, String sprintID, String workStages ) {
 		this.projectID = projectID;
 		this.sprintID = sprintID;
-		System.out.println("workStages: "+workStages);
+//		System.out.println("workStages: "+workStages);
 		this.workStages = workStages;
-		System.out.println("workStages: "+workStages);
+//		System.out.println("workStages: "+workStages);
 	}
 
 	public String toString(){
@@ -38,13 +38,13 @@ public class TaskBoardConfig {
 	}
 
 	public String getWorkStages() {
-		System.out.println("this.workStages: "+this.workStages);
+//		System.out.println("this.workStages: "+this.workStages);
 		return workStages;
 	}
 
 	public void setWorkStages(String workStages) {
-		System.out.println("this.workStages: "+this.workStages);
+//		System.out.println("this.workStages: "+this.workStages);
 		this.workStages = workStages;
-		System.out.println("this.workStages: "+this.workStages);
+//		System.out.println("this.workStages: "+this.workStages);
 	}
 }

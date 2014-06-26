@@ -26,6 +26,8 @@
 
 
 <!-- Task Board Plug-in -->
+<script type="text/javascript" src="<%=pluginExtensioner.getWebPluginRoot() %>webApp/plugin/taskBoard/protocol/taskBoardAction/ProjectLeftTree.js"></script>
+<script type="text/javascript" src="<%=pluginExtensioner.getWebPluginRoot() %>webApp/plugin/taskBoard/protocol/taskBoardAction/ProjectPages.js"></script>
 <script type="text/javascript" src="<%=pluginExtensioner.getWebPluginRoot() %>webApp/plugin/taskBoard/protocol/taskBoardAction/TaskBoardDataModel.js"></script>
 <script type="text/javascript" src="<%=pluginExtensioner.getWebPluginRoot() %>webApp/plugin/taskBoard/protocol/layoutSupport/TaskBoardLayoutSupport.js"></script>
 

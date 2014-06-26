@@ -234,5 +234,5 @@ EzScrum.Plugin.TaskBoard.TaskBoardPlugin = Ext.extend(Ext.util.Observable,{
 	}
 });
 // register plugin, id: TaskBoardPlugin 
-Ext.preg('TaskBoardPlugin', EzScrum.Plugin.TaskBoard.TaskBoardPlugin);
+Ext.preg('boardPlugin', EzScrum.Plugin.TaskBoard.TaskBoardPlugin);
 

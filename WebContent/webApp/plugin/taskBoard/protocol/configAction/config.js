@@ -18,4 +18,4 @@ EzScrum.Plugin.TaskBoard.Config.TaskBoardConfigPlugin = Ext.extend(Ext.util.Obse
 	}
 });
 
-Ext.preg('boardConfigPlugin', EzScrum.Plugin.TaskBoard.Config.TaskBoardConfigPlugin);
+Ext.preg('TaskBoardPlugin', EzScrum.Plugin.TaskBoard.Config.TaskBoardConfigPlugin);
